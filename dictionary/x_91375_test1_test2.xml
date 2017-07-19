@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="test2" max_length="40" name="x_91375_test1_test2" type="collection">
+        <element label="hello" max_length="40" name="hello" type="string"/>
+    </element>
+</database>
